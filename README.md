@@ -27,7 +27,10 @@ To clean and preprocess the Netflix Movies and TV Shows dataset using Python (Pa
 - `netflix_titles.csv` - Raw dataset from Kaggle
 - `cleaned_netflix_data.csv` - Final cleaned dataset
 - `screenshot.png` - Output preview (optional)
-  
+
+  <img width="813" height="826" alt="Screenshot 2025-08-04 130930" src="https://github.com/user-attachments/assets/572d64be-36f0-4205-be6a-e98e472349e6" />
+<img width="1794" height="682" alt="Screenshot 2025-08-04 130855" src="https://github.com/user-attachments/assets/d57ed195-88a8-45b7-bc00-ed29e8fe1621" />
+
 
 ## 👨‍💻 Author
 Muniswaran L
