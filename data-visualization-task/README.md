@@ -1,4 +1,4 @@
-# Task 2: Data Visualization and Storytelling
+<img width="1857" height="949" alt="Screenshot 2025-08-05 130054" src="https://github.com/user-attachments/assets/79958bca-d744-49be-b751-f783c3d01455" /># Task 2: Data Visualization and Storytelling
 
 ## 📌 Objective:
 Create a compelling story using visualizations in Power BI.
@@ -26,5 +26,11 @@ Superstore Sales Data (`superstore.csv`)
 Visual analytics helped identify key trends, highlight losses, and show where to improve focus in marketing and inventory.
 
 ## 📁 Deliverables:
-- `"C:\Users\munis\Downloads\Powerbi_dashboard.pdf.pdf"` – Visual report
+- `"Powerbi_dashboard.pdf.pdf"` – Visual report
 - Dataset and screenshots
+- <img width="1857" height="949" alt="Screenshot 2025-08-05 130054" src="https://github.com/user-attachments/assets/9432fe5c-8dd5-4d97-9972-01015e44a0aa" />
+- <img width="1904" height="947" alt="Screenshot 2025-08-05 130108" src="https://github.com/user-attachments/assets/0d01bf4b-ed5d-4ae8-9fdc-06ba6d0d9e6f" />
+- <img width="1471" height="796" alt="Screenshot 2025-08-05 130124" src="https://github.com/user-attachments/assets/7b6926c5-3fdb-4b8b-a751-641d2b67b0ad" />
+
+
+
