@@ -26,5 +26,5 @@ Superstore Sales Data (`superstore.csv`)
 Visual analytics helped identify key trends, highlight losses, and show where to improve focus in marketing and inventory.
 
 ## 📁 Deliverables:
-- `powerbi_dashboard.pdf` – Visual report
+- `"C:\Users\munis\Downloads\Powerbi_dashboard.pdf.pdf"` – Visual report
 - Dataset and screenshots
