@@ -24,7 +24,12 @@ Amazon Sales Dataset (2019–2024) from Kaggle :contentReference[oaicite:2]{inde
 
 ## 📁 Deliverables
 - `amazon_dashboard.pdf`
-- Screenshots folder 
+- Screenshots 
+- <img width="1396" height="774" alt="Screenshot 2025-08-07 130754" src="https://github.com/user-attachments/assets/56dcea51-c1d2-40c5-8c24-2d138538ef83" />
+<img width="1386" height="769" alt="Screenshot 2025-08-07 130815" src="https://github.com/user-attachments/assets/9899509e-fd30-410a-9c75-7620a72fc0ae" />
+<img width="1386" height="770" alt="Screenshot 2025-08-07 130909" src="https://github.com/user-attachments/assets/74813ac8-09e8-42b5-916f-30cf715c6bb3" />
+
+
 
 ## 👨‍💻 Author
 Muniswaran M
