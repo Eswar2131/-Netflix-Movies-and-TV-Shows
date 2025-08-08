@@ -64,7 +64,7 @@ SELECT DATE_FORMAT(order_date, '%Y-%m') AS month,
 FROM women_clothing_ecommerce_sales
 GROUP BY month;
 #Screenshots
-<img width="1149" height="949" alt="Screenshot 2025-08-08 204047" src="https://github.com/user-attachments/assets/c282a00f-6e34-49a1-a878-ece61ffa1e7d" />
+-<img width="1149" height="949" alt="Screenshot 2025-08-08 204047" src="https://github.com/user-attachments/assets/c282a00f-6e34-49a1-a878-ece61ffa1e7d" />
 <img width="1633" height="1017" alt="Screenshot 2025-08-08 204104" src="https://github.com/user-attachments/assets/cb3f9776-cc28-4c9e-a406-2b2a4fc4f397" />
 <img width="724" height="969" alt="Screenshot 2025-08-08 204128" src="https://github.com/user-attachments/assets/6c254a6e-68c6-431a-a385-14f70b2bca9a" />
 <img width="825" height="724" alt="Screenshot 2025-08-08 204144" src="https://github.com/user-attachments/assets/3f6b5509-d286-43c4-a70f-1a735f61beb9" />
