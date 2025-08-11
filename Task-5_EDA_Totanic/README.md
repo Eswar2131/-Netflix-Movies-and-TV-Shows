@@ -53,7 +53,7 @@ Higher-class passengers and females had better survival rates, aligning with the
 
 ---
 
-## 📜 Screenshor
+## 📜 Screenshort
 - <img width="1726" height="841" alt="Screenshot 2025-08-11 114458" src="https://github.com/user-attachments/assets/cfe9e82d-5227-432a-8d12-849927ba8562" />
 - <img width="713" height="836" alt="Screenshot 2025-08-11 114519" src="https://github.com/user-attachments/assets/bcd7c0e1-917c-48c9-8d2e-b78d78a8ddd5" />
 - <img width="542" height="710" alt="Screenshot 2025-08-11 114552" src="https://github.com/user-attachments/assets/ffc3d77e-1c9c-4611-b825-b5ae9ad34ff1" />
